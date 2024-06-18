@@ -35,8 +35,10 @@ body {
     margin: auto;
 }
 main{
-    background: rgb(84, 148, 32);
+    background: rgb(201, 236, 173);
     margin: 10%;
+    padding: 10px;
+   Text-align: center;
 }
 footer {
 background-color: #f1f1f1;
@@ -46,4 +48,5 @@ box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
 footer p {
 margin: 5px 0;
 text-align: center ;
+color: #f1f1f1;
 }

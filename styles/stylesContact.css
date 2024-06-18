@@ -1,17 +1,25 @@
-/* Estilos para el fondo del cuerpo */
 body {
-    background-color: #f8f9fa;
+    background-color: #e4e7eb;
     background-image: url(69976\ copy.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 
-/* Estilos para la barra de navegación personalizada */
 .navbar-custom {
     background-color: #00ff0d32;
+    
 }
+.navbar-brand{
+    color: #e4e7eb;
+}
+.nav-link{
+    color: #e4e7eb;
 
+}
+.navbar .navbar-expand-lg .navbar-custom{
+    background-color: #e4e7eb;
+}
 .container {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 20px;
@@ -21,8 +29,8 @@ body {
     margin: 50px auto;
 }
 footer {
-    background-color: #f1f1f1;
-    padding: 10px 20px;
+    background-color: #4e4d4d;
+    padding: 5px 20px;
     box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
     position: fixed;
     width: 100%;
@@ -33,4 +41,5 @@ footer {
 footer p {
     margin: 5px 0;
     text-align: center;
+    color: #e4e7eb;
 }
